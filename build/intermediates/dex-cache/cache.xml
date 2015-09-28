@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-13a29174793e5a90b7e50e232368444784172b13.jar" />
+    </item>
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\activation-54b36e9f57bd64e001e6428c6a39e306154b4ebf.jar" />
+    </item>
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\classes-9c4bfaf86a679207cccd26eb96e14eac36d88a56.jar" />
+    </item>
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\classes-972683ca58077d7d696c8656f73ad77ae0f332e8.jar" />
+    </item>
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\mail-5d7ea12e268b40abd0e0b21ad9ab54a61442e994.jar" />
+    </item>
+    <item
+        jar="D:\LocalData\peterk2\Desktop\DriverSurvey\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\additionnal-7a38e603528938e3e8a3c665af41fe2526c8ad31.jar" />
+    </item>
+    <item
+        jar="C:\Users\PeterK2\AppData\Local\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\LocalData\peterk2\Desktop\DriverSurvey\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-73bbd3187dd95fd8c07dc9c970217c142296ccb0.jar" />
+    </item>
+
+</items>

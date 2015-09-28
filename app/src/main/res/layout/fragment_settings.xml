@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.peterk2.drivesurvey.SettingsFragment">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="50dp">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:text="@string/default_email_text"
+            android:ems="10"
+            android:id="@+id/email_address"
+            android:layout_marginTop="@dimen/activity_vertical_margin" />
+
+        <Button style="@style/DefaultButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/send_email_button"
+            android:id="@+id/send_email_button"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="20dp" />
+    </LinearLayout>
+
+    <Button style="@style/DefaultButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/reset_saved_survey_button"
+        android:id="@+id/reset_saved_survey_button"
+        android:onClick="onResetResultsClick"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="50dp" />
+
+    <Button style="@style/DefaultButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_button"
+        android:id="@+id/settings_back_button"
+        android:onClick="onSettingsBackClick"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="50dp" />
+
+</LinearLayout>
